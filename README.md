@@ -1,4 +1,4 @@
-*** Style Guide Snippets
+***Style Guide Snippets
 
 A simply utility to populate code snippets with a sample. Very similar to what you see on
 Bootstrap's or Foundation's example pages. Prevents code having to be maintained in two different

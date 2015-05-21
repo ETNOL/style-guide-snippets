@@ -1,0 +1,27 @@
+{
+  "name": "style-guide-snippets",
+  "version": "1.0.0",
+  "authors": [
+    "Eric Nolte <eric.nolte@markit.com>"
+  ],
+  "description": "Auto-inject stylized code snippets with a simple class name. Use class '.snippet' on any component you wish to generate.  See Codepen: http://codepen.io/amishstripclub/pen/jPqEmP for an example of use. ",
+  "main": "js/style-guide-snippets.js",
+  "keywords": [
+    "[\"style",
+    "guide\"",
+    "\"snippets\"",
+    "\"prism\"]"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "prism": "*",
+    "jQuery": "*"
+  }
+}

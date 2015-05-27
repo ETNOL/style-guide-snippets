@@ -1,6 +1,6 @@
 {
   "name": "style-guide-snippets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Eric Nolte <eric.nolte@markit.com>"
   ],
@@ -20,7 +20,7 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
+  "dependencies": {
     "prism": "*",
     "jQuery": "*"
   }
